@@ -1,0 +1,6 @@
+import './axios'
+import './fontawesome'
+import 'bootstrap'
+import './bootstrap_vue'
+import './select_vue'
+import './google_map'
